@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+PROYECTO  DESARROLLADO CON REACT.JS  PARA IMPRIMIR TARJETAS .
+
+
+1- CLONAR  PROYECTO 
+2- INSTALAR LIBRERIAS  CON NPM INSTALL
+3- EJECUTE EN CONSOLA NPM START 
+
 
 ## Available Scripts
 
