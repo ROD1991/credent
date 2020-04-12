@@ -1,0 +1,627 @@
+
+
+.App {
+
+  text-align: center;
+
+}
+
+
+
+.App-logo {
+
+  height: 40vmin;
+
+}
+
+
+
+.App-conten {
+
+  background-color: #41E3DC;
+
+  min-height: 100vh;
+
+  margin: auto;
+
+  width: 1100px;
+
+  display: flex;
+
+  font-size: calc(10px + 2vmin);
+
+  color: white;
+
+  border-radius: 15px;
+
+
+}
+
+
+
+.App-form {
+
+  width: 600px;
+
+  height: 500px;
+
+  margin: 5px;
+
+  
+
+  margin-top: 110px;
+
+  margin-right: 5px;
+
+  float: left;
+
+}
+
+.Appformvisu {
+
+  width: 500px;
+
+  height: 500px;
+
+  margin-top: 110px;
+
+  margin-right: 5px;
+
+  
+
+  float: right;
+
+  margin-left: 10px;
+
+}
+
+.App-link {
+
+  color: #09d3ac;
+
+}
+
+
+
+
+
+  /*tarjeta bci*/
+
+  .bci {
+
+             
+
+    margin: auto;
+
+    margin-top: 50px;
+
+    background-image: url("img/segblan.png");
+
+    border: 1px solid #eee;
+
+    font-size: 16px;
+
+    line-height: 24px;
+
+    font-family: 'Arial';
+
+    color: #555;
+
+    background-size: cover;
+
+    width:212.60px;
+
+    height:336.61px;
+
+    border-radius: 3.15px;
+    
+  }
+
+    .bcifoto{
+
+      width: 121px;
+
+      height: 120px;
+
+      margin-top: 25px;
+
+      margin-left: 44px;
+
+      left: 26%;
+
+      background-color: #0A0909;
+
+      
+
+      }
+
+      .bcifoto img{
+
+        width: 100%;
+
+        height: 100%;
+
+      }
+
+      .bcitexto{
+
+        width: 170px;
+
+        height: 20px;
+
+        margin-top: 5px;
+
+        margin-left: 15px;
+
+       color: rgb(2, 3, 10);
+
+        text-align: center;
+
+        font-family: Arial;
+
+        margin-bottom: 5px;
+
+        font-size: 1em;
+
+        text-transform: capitalize;
+
+        word-break: break-all;
+                    
+        word-wrap: break-word;
+        
+
+        }
+
+        .bcitexto_area{
+
+          width: 170px;
+
+          height: 40px;
+
+          margin-top: 5px;
+
+          margin-left: 15px;
+
+         color: rgb(2, 3, 10);
+
+          text-align: right;
+
+          font-family: Arial;
+
+          margin-bottom: 10px;
+
+          font-size: 0.9em;
+
+          word-break: break-all;
+                    
+          word-wrap: break-word;
+
+          text-transform: capitalize;
+
+        }
+
+          /*fin bci*/
+
+          /*grace*/
+
+          .grace {
+
+             
+
+            margin: auto;
+
+            margin-top: 50px;
+
+            background-image: url("img/comedigra.png");
+
+            background-size: cover;
+    
+            border: 1px solid #eee;
+
+            font-size: 16px;
+
+            line-height: 24px;
+
+            font-family: 'Helvetica Neue', 'Helvetica';
+
+            color: #555;
+            
+            width:212.60px;
+
+            height:336.61px;
+        
+            border-radius: 3.15px;
+            }
+
+            .gracefoto{
+
+              width: 105px;
+
+              height: 143px;
+
+              margin-top: 67px;
+
+              margin-left: 53px;
+
+              left: 26%;
+
+              background-color: #0A0909;
+
+              }
+
+              .gracefoto img{
+
+                width: 100%;
+
+                height: 100%;
+
+              }
+
+              .gracetexto{
+
+                width: 170px;
+
+                height: 20px;                
+
+                margin-top: 10px;
+
+                margin-left: 20px;
+
+                font-size: x-large;
+
+                color: rgb(7, 12, 85);
+
+                text-align: center;
+
+                font-family: Arial;
+
+                margin-bottom: 10px;
+
+                text-transform: capitalize;
+
+                }
+
+                .gracetexto_area{
+
+                  visibility: hidden;
+
+                  width: 170px;
+
+                  height: 20px;
+
+                  margin-top: 20px;
+
+                  margin-left: 15px;
+
+                 color: rgb(2, 3, 10);
+
+                  text-align: right;
+
+                  font-family: Arial;
+
+                  margin-bottom: 10px;
+
+                  font-weight:bold;
+
+                  text-transform: capitalize;
+
+                  }
+
+                  /*fin grace*/
+
+                  /*zenit*/
+
+                  .zenit {      
+
+                    margin: auto;
+
+                    margin-top: 50px;
+
+                    background-image: url("img/zenit.png");
+
+                    background-size: cover;
+
+                    border: 1px solid #eee;
+
+                    font-size: 16px;
+
+                    line-height: 24px;
+
+                    font-family: 'Helvetica Neue', 'Helvetica';
+
+                    color: #555;
+
+                    width:212.60px;
+
+                    height:336.61px;
+                
+                    border-radius: 3.15px;
+
+                   }
+
+            .zenitfoto{
+
+              width: 125px;
+
+              height: 130px;
+
+              margin-top: 103px;
+
+              margin-left: 42px;
+
+              left: 26%;
+
+              background-color: #0A0909;
+
+              }
+
+              .zenitfoto img{
+
+                width: 100%;
+
+                height: 100%;
+
+              }
+
+              .zenittexto{
+
+                width: 170px;
+
+                height: 15px;                
+
+                margin-top: 3px;
+
+                margin-left: 15px;
+
+                font-size: 1em;
+
+                color: rgb(255,255, 255);
+
+                word-wrap: break-word;
+
+                text-align: center;
+
+                font-family: Arial;
+
+                margin-bottom: 10px;
+
+                text-transform: capitalize;
+             
+
+                
+
+                }
+
+                .zenittexto_area{
+
+                  width: 95px;
+
+                  height: 50px;
+
+                  margin-top: -225px;
+
+                  margin-left: 4px;
+
+                 color: rgb(255, 255,255);
+
+                  text-align: right;
+
+                  font-family: Arial;
+
+                  margin-bottom: 10px;
+
+                  font-size: 0.9em;
+
+                  word-break: break-normal;
+                  word-wrap: break-word;
+
+                  text-transform: capitalize;
+
+                  }
+
+                  /*zenit*/
+
+                  /*coseur*/
+
+                  .coseur {      
+
+                    margin: auto;
+
+                    margin-top: 50px;
+
+                    background-image: url("img/coseur.png");
+
+                    border: 1px solid #eee;
+
+                    font-size: 16px;
+
+                    line-height: 24px;
+
+                    font-family: 'Helvetica Neue', 'Helvetica';
+
+                    color: #555;
+
+                    width:212.60px;
+
+                    height:336.61px;
+                
+                    border-radius: 3.15px;
+                    word-break: break-all;
+                    
+                    word-wrap: break-word;
+
+                   }
+
+            .coseurfoto{
+
+              width: 135px;
+
+              height: 134px;
+
+              margin-top: 37px;
+
+              margin-left: 32px;
+
+              left: 26%;
+
+              background-color: #0A0909;
+
+              }
+
+              .coseurfoto img{
+
+                width: 100%;
+
+                height: 100%;
+
+              }
+
+              .coseurtexto{
+
+                width: 170px;
+
+                height: 15px;                
+
+                margin-top: 2px;
+
+                margin-left: 15px;
+
+                font-size: 1em;
+
+                color: rgb(0,0,0);
+
+                text-align: center;
+
+                font-family: Arial;
+
+                margin-bottom: 10px;
+
+                text-transform: capitalize;
+                overflow-wrap: normal;
+                
+
+                }
+
+                .coseurtexto_area{
+
+                  width: 140px;
+
+                  height: 50px;
+
+                  margin-top: 5px;
+
+                  margin-left: 30px;
+
+                  color:#000;
+
+                  text-align: center;
+
+                  font-family: Arial;
+
+                  margin-bottom: 10px;
+
+                  font-size: 1.4em;
+
+                  text-transform: capitalize;
+                  
+                  overflow-wrap: normal;
+
+
+                  }
+
+                  /*coseur*/
+
+                  .btn_imp{
+
+                    width: auto;
+
+                    height: auto;
+
+                    position: absolute;
+
+                    display: block;
+
+                    margin-bottom:20px;
+
+                    margin-left: 200px;
+
+
+
+                  }
+
+                  .header{
+
+                    width: 1100px;
+
+                    height: 100px;
+
+                    background-color: #FFF;
+                    text-align:center;
+                    margin-bottom: 10px;
+
+                   position: fixed;
+
+                    scroll-margin-left: 5px;
+
+                    align-content: center;
+                    border-radius: 14px;
+
+                  }
+
+                  .header img{
+
+                    width: 140px;
+
+                    height: 80px;
+
+                    margin-top: 0px;
+
+                    margin-right: 0px;
+
+                   float: left;
+
+                    scroll-margin-left: 5px;
+
+                    align-content: center;
+
+                    border-radius: 14px;
+
+                  }
+
+                  
+                  .base {      
+
+                    margin: auto;
+                    z-index: 1;
+                    margin-top: 50px;
+
+                    background-image: url("img/coseur.png");
+
+                    border: 1px solid #eee;
+
+                    font-size: 16px;
+
+                    line-height: 24px;
+
+                    font-family: 'Helvetica Neue', 'Helvetica';
+
+                    color: #555;
+
+                    border-radius:3.023622047px;
+
+                    width:204.094488189px;
+
+                    height:323.149606299px;
+
+                    border-radius:3.023622047px;
+
+                    word-break: break-all;
+                    
+                    word-wrap: break-word;
+
+                   
+
+         
+              }
+
+       
